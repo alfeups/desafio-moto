@@ -1,4 +1,4 @@
-# desafio-moto
+// desafio-moto
 
 /*
 Joana adora brincar com números ímpares. No outro dia, ela começou a escrever, em cada linha, um número ímpar de números ímpares. Parecia como se segue:
