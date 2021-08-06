@@ -1,6 +1,6 @@
 # desafio-moto
 
-
+/*
 Joana adora brincar com números ímpares. No outro dia, ela começou a escrever, em cada linha, um número ímpar de números ímpares. Parecia como se segue:
 1
 3  5  7
@@ -24,7 +24,7 @@ Exemplo de Entrada
 Exemplo de saída
 45
 
-
+*/
 
 
 ```
