@@ -2,10 +2,12 @@
 
 /*
 Joana adora brincar com números ímpares. No outro dia, ela começou a escrever, em cada linha, um número ímpar de números ímpares. Parecia como se segue:
+````
 1
 3  5  7
 9 11 13 15 17
 19 21 23 25 27 29 31
+````
 ...
 
 Em uma determinada linha Joana escreveu 55 números ímpares. Vôce pode descobrir a soma dos últimos três números escritos nessa linha? Você pode fazer isso em geral, para uma determinada quantidade de números ímpares?
